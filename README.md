@@ -8,7 +8,7 @@ I work on applied machine learning problems with a focus on security, natural la
 [GitHub](https://github.com/mehedi-shakil) ·
 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/mehedi-hasan-shakil-075608232/) ·
 [Google Scholar](https://scholar.google.com/https://scholar.google.com/citations?user=V7QkzPEAAAAJ&hl=en) 
-[Download CV](CV.pdf)
+📄 [Download CV](CV.pdf)
 
 
 ---
