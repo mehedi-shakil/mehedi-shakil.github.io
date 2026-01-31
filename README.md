@@ -8,7 +8,8 @@ I work on applied machine learning problems with a focus on security, natural la
 🔗 GitHub: https://github.com/mehedi-shakil  
 🔗 LinkedIn: https://linkedin.com/in/YOUR_LINK  
 🔗 Google Scholar: https://scholar.google.com/YOUR_ID  
-📄 CV: CV.pdf  
+📄 CV: [Download CV](CV.pdf)
+
 
 ---
 
