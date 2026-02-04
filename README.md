@@ -1,4 +1,7 @@
-<img src="profile.jpg" alt="Mehedi Hasan Shakil" width="160" style="border-radius: 50%;" />
+<p align="center">
+  <img src="profile.jpg" alt="Mehedi Hasan Shakil" width="160" style="border-radius: 50%;" />
+</p>
+
 
 # Mehedi Hasan Shakil
 
