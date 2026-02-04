@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="profile.jpg" alt="Mehedi Hasan Shakil" width="160" style="border-radius: 50%;" />
+  <img src="profile.jpg" width="160" style="border-radius: 50%;" />
 </p>
 
+<h1 align="center">Mehedi Hasan Shakil</h1>
 
-# Mehedi Hasan Shakil
+<p align="center">
+  Machine Learning Engineer · Deep Learning · NLP · Security
+</p>
 
-Machine Learning Engineer | Deep Learning | NLP | Security
 
 I work on applied machine learning problems with a focus on security, natural language processing, and real-world deployment. My experience includes deep learning–based malware detection, intrusion detection systems, NLP models using transformers, and end-to-end ML pipelines from data preprocessing to API deployment. I have published peer-reviewed research at IEEE conferences and enjoy building systems that balance research rigor with practical usability.
 
