@@ -23,7 +23,7 @@ Designing for class imbalance early has a larger impact on real-world performanc
 ---
 
 ## Optimized IoT Security (Hybrid Attention IDS)
-![Optimized IoT Security](assets/optimized_iot.png)
+![Optimized IoT Security](asstes/optimized_iot.png)
 
 **Domain:** IoT Security · Intrusion Detection  
 
@@ -39,7 +39,7 @@ Attention mechanisms help stabilize detection in heterogeneous traffic, but only
 ---
 
 ## Hate Speech Detection (NLP)
-![Hate Speech Detection](assets/hate_speech.png)
+![Hate Speech Detection](asstes/hate_speech.png)
 
 **Domain:** NLP · Transformers  
 
@@ -56,7 +56,7 @@ Model performance alone is insufficient without a deployment interface that supp
 ---
 
 ## Fake Instagram Account Detection
-![Fake Instagram Detection](assets/fake_instagram.png)
+![Fake Instagram Detection](asstes/fake_instagram.png)
 
 **Domain:** Social Media Security · Machine Learning  
 
@@ -72,7 +72,7 @@ Careful feature selection often outperforms complex models when labels and signa
 ---
 
 ## Time Series Forecasting (Tesla Stock)
-![Tesla Forecasting](assets/tesla_forecast.png)
+![Tesla Forecasting](asstes/tesla_forecast.png)
 
 **Domain:** Time Series Analysis · Forecasting  
 
