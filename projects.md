@@ -23,7 +23,7 @@ Designing for class imbalance early has a larger impact on real-world performanc
 ---
 
 ## Optimized IoT Security (Hybrid Attention IDS)
-![Optimized IoT Security](asstes/optimized_iot.png)
+![Optimized IoT Security](asstes/iot_ids.png)
 
 **Domain:** IoT Security · Intrusion Detection  
 
