@@ -56,7 +56,7 @@ Model performance alone is insufficient without a deployment interface that supp
 ---
 
 ## Fake Instagram Account Detection
-![Fake Instagram Detection](asstes/fake_instagram.png)
+![Fake Instagram Detection](asstes/fake_insta.png)
 
 **Domain:** Social Media Security · Machine Learning  
 
