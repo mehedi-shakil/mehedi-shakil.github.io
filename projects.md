@@ -5,7 +5,7 @@ Selected machine learning projects focused on security, NLP, and applied modelin
 ---
 
 ## Android Malware Detection
-![Android Malware Detection](assets/android_malware.png)
+![Android Malware Detection](asstes/android_malware.png)
 
 **Domain:** Security · Deep Learning  
 
