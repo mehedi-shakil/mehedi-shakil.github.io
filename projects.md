@@ -1,140 +1,120 @@
-<h1>Projects</h1>
-<p>
-Selected ML projects in security, NLP, and time-series, focused on practical evaluation and deployable workflows.
-</p>
+# Projects
+
+<div class="proj-grid">
+
+  <div class="proj-card">
+    <img src="asstes/android_malware.png" alt="Android Malware Detection" class="proj-img" />
+    <div class="proj-body">
+      <div class="proj-title">Android Malware Detection</div>
+      <div class="proj-desc">
+        Drebin malware classification with RFECV-selected static features + Bi-LSTM/CNN weighted ensemble; feature selection and ensembling did more than scaling model size.
+      </div>
+      <div class="proj-links">
+        <a href="https://github.com/mehedi-shakil/Android-Malware-Detection" target="_blank" rel="noopener">GitHub ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="proj-card">
+    <img src="asstes/iot_ids.png" alt="Optimized IoT Security IDS" class="proj-img" />
+    <div class="proj-body">
+      <div class="proj-title">Optimized IoT Security (Hybrid Attention IDS)</div>
+      <div class="proj-desc">
+        Multi-class IoT intrusion detection with hybrid attention sequence modeling; performance depends heavily on clean splits and imbalance handling.
+      </div>
+      <div class="proj-links">
+        <a href="https://github.com/mehedi-shakil" target="_blank" rel="noopener">GitHub ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="proj-card">
+    <img src="asstes/hate_speech.png" alt="Hate Speech Detection API" class="proj-img" />
+    <div class="proj-body">
+      <div class="proj-title">Hate Speech Detection API</div>
+      <div class="proj-desc">
+        Fine-tuned BERT for hate speech classification and deployed a Flask REST API; reliable inference packaging matters as much as accuracy.
+      </div>
+      <div class="proj-links">
+        <a href="https://github.com/mehedi-shakil/hate-speech-api" target="_blank" rel="noopener">GitHub ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="proj-card">
+    <img src="asstes/fake_insta.png" alt="Fake Instagram Detection" class="proj-img" />
+    <div class="proj-body">
+      <div class="proj-title">Fake Instagram Account Detection</div>
+      <div class="proj-desc">
+        Supervised fake-account detection using profile/behavior features; strong feature signals beat complex models on noisy social data.
+      </div>
+      <div class="proj-links">
+        <a href="https://github.com/mehedi-shakil" target="_blank" rel="noopener">GitHub ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="proj-card">
+    <img src="asstes/tesla_forecast.png" alt="Tesla Forecasting" class="proj-img" />
+    <div class="proj-body">
+      <div class="proj-title">Time Series Forecasting (TSLA)</div>
+      <div class="proj-desc">
+        ARIMA vs LSTM forecasting on TSLA close prices; stability and error analysis matter more than tiny accuracy gains in volatility.
+      </div>
+      <div class="proj-links">
+        <a href="https://github.com/mehedi-shakil/Time_Series_Forecasting___TSLA_Close" target="_blank" rel="noopener">GitHub ↗</a>
+      </div>
+    </div>
+  </div>
+
+</div>
 
 <style>
   .proj-grid{
     display:grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap:14px;
+    grid-template-columns:repeat(3, minmax(0, 1fr));
+    gap:16px;
     margin-top:14px;
   }
-  .proj-grid.two{
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    margin-top:14px;
-  }
-  @media (max-width: 980px){
-    .proj-grid{ grid-template-columns: repeat(2, minmax(0, 1fr)); }
-    .proj-grid.two{ grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  }
-  @media (max-width: 640px){
-    .proj-grid{ grid-template-columns: 1fr; }
-    .proj-grid.two{ grid-template-columns: 1fr; }
-  }
-
-  .card{
-    border:1px solid rgba(0,0,0,0.10);
+  .proj-card{
+    border:1px solid #e5e7eb;
     border-radius:14px;
     overflow:hidden;
     background:#fff;
+    box-shadow:0 1px 2px rgba(0,0,0,0.05);
   }
-  .media{
+  .proj-img{
     width:100%;
-    aspect-ratio: 16/9;
-    background:#f4f6f8;
-  }
-  .media img{
-    width:100%;
-    height:100%;
-    object-fit: cover;
+    height:140px;
+    object-fit:cover;
     display:block;
   }
-  .body{
-    padding:10px 12px 12px;
+  .proj-body{
+    padding:12px 12px 14px;
   }
-  .title{
-    margin:0;
-    font-size:14px;
-    line-height:1.25;
+  .proj-title{
     font-weight:700;
+    font-size:16px;
+    line-height:1.2;
+    margin-bottom:8px;
   }
-  .desc{
-    margin:6px 0 10px;
-    font-size:13px;
-    line-height:1.5;
-    color:#2f3a45;
+  .proj-desc{
+    font-size:13.5px;
+    line-height:1.45;
+    color:#374151;
+    margin-bottom:10px;
   }
-  .link{
-    font-size:13px;
+  .proj-links a{
+    font-size:13.5px;
     text-decoration:none;
-    border-bottom:1px dashed rgba(0,0,0,0.35);
-    color:#111;
+    font-weight:600;
   }
-  .link:hover{
-    border-bottom-color: rgba(0,0,0,0.85);
+
+  @media (max-width: 980px){
+    .proj-grid{ grid-template-columns:repeat(2, minmax(0, 1fr)); }
+  }
+  @media (max-width: 620px){
+    .proj-grid{ grid-template-columns:1fr; }
+    .proj-img{ height:160px; }
   }
 </style>
-
-<div class="proj-grid">
-
-  <div class="card">
-    <div class="media">
-      <img src="asstes/android_malware.png" alt="Android Malware Detection">
-    </div>
-    <div class="body">
-      <p class="title">Android Malware Detection</p>
-      <p class="desc">
-        CNN + ensemble malware detection with imbalance-aware evaluation; takeaway: handling imbalance early beats adding model complexity.
-      </p>
-      <a class="link" href="https://github.com/mehedi-shakil/Android-Malware-Detection" target="_blank" rel="noopener">GitHub →</a>
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="media">
-      <img src="asstes/iot_ids.png" alt="Optimized IoT Security">
-    </div>
-    <div class="body">
-      <p class="title">Optimized IoT Security (Hybrid Attention IDS)</p>
-      <p class="desc">
-        Hybrid-attention IDS for heterogeneous IoT traffic; takeaway: attention helps only with disciplined preprocessing and labels.
-      </p>
-      <a class="link" href="https://github.com/mehedi-shakil" target="_blank" rel="noopener">GitHub →</a>
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="media">
-      <img src="asstes/hate_speech.png" alt="Hate Speech Detection">
-    </div>
-    <div class="body">
-      <p class="title">Hate Speech Detection (NLP)</p>
-      <p class="desc">
-        BERT fine-tuning with a Flask REST API for real-time inference; takeaway: deployment turns a model into a usable product.
-      </p>
-      <a class="link" href="https://github.com/mehedi-shakil/hate-speech-api" target="_blank" rel="noopener">GitHub →</a>
-    </div>
-  </div>
-
-</div>
-
-<div class="proj-grid two">
-
-  <div class="card">
-    <div class="media">
-      <img src="asstes/fake_insta.png" alt="Fake Instagram Detection">
-    </div>
-    <div class="body">
-      <p class="title">Fake Instagram Account Detection</p>
-      <p class="desc">
-        Supervised detection using profile + behavior features; takeaway: strong feature selection beats complex models on noisy social data.
-      </p>
-      <a class="link" href="https://github.com/mehedi-shakil" target="_blank" rel="noopener">GitHub →</a>
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="media">
-      <img src="asstes/tesla_forecast.png" alt="Tesla Forecasting">
-    </div>
-    <div class="body">
-      <p class="title">Time Series Forecasting (TSLA)</p>
-      <p class="desc">
-        ARIMA vs LSTM forecasting comparison; takeaway: interpretability and stability can matter more than marginal accuracy in volatility.
-      </p>
-      <a class="link" href="https://github.com/mehedi-shakil/Time_Series_Forecasting___TSLA_Close" target="_blank" rel="noopener">GitHub →</a>
-    </div>
-  </div>
-
-</div>
