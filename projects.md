@@ -18,7 +18,7 @@
   <div class="proj-card">
     <img src="asstes/iot_ids.png" alt="Optimized IoT Security IDS" class="proj-img" />
     <div class="proj-body">
-      <div class="proj-title">Optimized IoT Security (Hybrid Attention IDS)</div>
+      <div class="proj-title">Optimized-IoT-Intrusion-Detection-by-Feature-Optimization </div>
       <div class="proj-desc">
       IoT IDS with attention modeling plus a novel hybrid feature-selection pipeline (filter + wrapper + embedded) for stable multi-class detection.
       </div>
