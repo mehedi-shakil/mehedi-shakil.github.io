@@ -23,7 +23,7 @@
         Multi-class IoT intrusion detection with hybrid attention sequence modeling; performance depends heavily on clean splits and imbalance handling.
       </div>
       <div class="proj-links">
-        <a href="[https://github.com/mehedi-shakil](https://github.com/mehedi-shakil/Optimized-IoT-Intrusion-Detection-by-Feature-Optimization)" target="_blank" rel="noopener">GitHub ↗</a>
+        <a href="https://github.com/mehedi-shakil/Optimized-IoT-Intrusion-Detection-by-Feature-Optimization" target="_blank" rel="noopener">GitHub ↗</a>
       </div>
     </div>
   </div>
@@ -49,7 +49,7 @@
         Supervised fake-account detection using profile/behavior features; strong feature signals beat complex models on noisy social data.
       </div>
       <div class="proj-links">
-        <a href="[https://github.com/mehedi-shakil](https://github.com/mehedi-shakil/fake-insta-flask)" target="_blank" rel="noopener">GitHub ↗</a>
+        <a href="https://github.com/mehedi-shakil/fake-insta-flask" target="_blank" rel="noopener">GitHub ↗</a>
       </div>
     </div>
   </div>
