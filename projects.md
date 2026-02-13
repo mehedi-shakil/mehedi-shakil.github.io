@@ -7,7 +7,7 @@
     <div class="proj-body">
       <div class="proj-title">Android Malware Detection</div>
       <div class="proj-desc">
-        Static Android malware detection on Drebin features using RFECV-based feature optimization and weighted CNN/Bi-LSTM ensemble; built for imbalanced real-world threat distributions rather than benchmark-only accuracy.
+        Static Android malware detection using optimized feature selection and a weighted CNN/Bi-LSTM ensemble.
       </div>
       <div class="proj-links">
         <a href="https://github.com/mehedi-shakil/Android-Malware-Detection" target="_blank" rel="noopener">GitHub ↗</a>
@@ -20,7 +20,7 @@
     <div class="proj-body">
       <div class="proj-title">Optimized IoT Security (Hybrid Attention IDS)</div>
       <div class="proj-desc">
-      Multi-class IoT intrusion detection with an attention-based deep model plus a novel hybrid feature-selection algorithm that combines filter, wrapper, and embedded selection methods to improve stability under heterogeneous traffic and class imbalance.
+      IoT IDS with attention modeling plus a novel hybrid feature-selection pipeline (filter + wrapper + embedded) for stable multi-class detection.
       </div>
       <div class="proj-links">
         <a href="https://github.com/mehedi-shakil/Optimized-IoT-Intrusion-Detection-by-Feature-Optimization" target="_blank" rel="noopener">GitHub ↗</a>
@@ -33,7 +33,7 @@
     <div class="proj-body">
       <div class="proj-title">Hate Speech Detection API</div>
       <div class="proj-desc">
-        Fine-tuned BERT for hate speech classification and deployed a Flask REST API
+        Fine-tuned BERT for 31k+ tweet hate-speech classification and deployed via Flask API for real-time inference.
       </div>
       <div class="proj-links">
         <a href="https://github.com/mehedi-shakil/hate-speech-api" target="_blank" rel="noopener">GitHub ↗</a>
@@ -46,7 +46,7 @@
     <div class="proj-body">
       <div class="proj-title">Fake Instagram Account Detection</div>
       <div class="proj-desc">
-       Supervised fake-account detection using behavioral and profile-level features with structured feature engineering; designed for robustness against noisy, partially informative social signals.
+      Fake-account detection using profile/behavior features with supervised ML and robust feature engineering for noisy social data.
       </div>
       <div class="proj-links">
         <a href="https://github.com/mehedi-shakil/fake-insta-flask" target="_blank" rel="noopener">GitHub ↗</a>
@@ -59,7 +59,7 @@
     <div class="proj-body">
       <div class="proj-title">Time Series Forecasting (TSLA)</div>
       <div class="proj-desc">
-       Comparative ARIMA vs LSTM forecasting on TSLA close prices with structured train/test evaluation and error diagnostics; focused on model stability, volatility sensitivity, and realistic predictive behavior.
+       TSLA close-price forecasting comparing ARIMA vs LSTM with structured evaluation and error analysis under volatility.
       </div>
       <div class="proj-links">
         <a href="https://github.com/mehedi-shakil/Time_Series_Forecasting___TSLA_Close" target="_blank" rel="noopener">GitHub ↗</a>
