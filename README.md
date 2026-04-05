@@ -22,6 +22,28 @@ I work on applied machine learning problems with a focus on security, natural la
 
 ---
 
+<h2 align="center">Work Experience</h2>
+
+### **Data Science Intern — Data Glacier**  
+**Remote · Mar 2025 – Jun 2025**
+
+Worked on an industry-style data science training and project track covering **data analysis, machine learning, feature engineering, visualization, model governance, and technical documentation** :contentReference[oaicite:0]{index=0}.  
+Built hands-on experience with **version control, Agile workflow, Flask deployment, cloud/API deployment, and data ingestion with schema validation** through weekly assignments and project deliverables :contentReference[oaicite:1]{index=1}.  
+
+**Highlights**
+- **ML & Analytics:** EDA, hypothesis testing, business insight generation, and model evaluation  
+- **Deployment:** Flask-based apps and cloud/API deployment workflows :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}  
+- **NLP Project Work:** Contributed to a transformer-based **hate speech detection** project aimed at scalable content moderation :contentReference[oaicite:4]{index=4}  
+- **End Deliverables:** Reports, presentations, and final project/code submission across the internship track  
+
+**Project Exposure**  
+`Bank Marketing` · `Customer Segmentation` · `Retail Forecasting` · `Healthcare Persistency` · `Resume Extraction` · `Document Classification` · `Hate Speech Detection`
+
+
+   
+---
+
+
 
 
 <h1 align="center">Projects</h1>
