@@ -9,7 +9,7 @@
 </p>
 
 
-I enjoy building practical ML systems that turn data into usable products. My work spans security, NLP, forecasting, and deployment, with hands-on experience in model development, feature engineering, API integration, and applied research.
+I enjoy building practical ML systems that turn data into usable products. My work spans security, NLP, forecasting, and deployment, with hands-on experience in model development, feature engineering, API integration, and applied research. I’m especially drawn to projects where thoughtful analysis, strong implementation, and real-world impact are as important as model performance.
 
 <p align="center">
   <a href="mailto:shakilcuetcse@gmail.com">Email</a> ·
