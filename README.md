@@ -24,6 +24,8 @@ I work on applied machine learning problems with a focus on security, natural la
 
 
 # Projects
+<h2 align="center">Projects</h2>
+<h2 align="center">Publications</h2>
 
 <div class="proj-grid">
 
