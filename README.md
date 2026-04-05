@@ -9,7 +9,7 @@
 </p>
 
 
-I work on applied machine learning problems with a focus on security, natural language processing, and real-world deployment. My experience includes deep learning–based malware detection, intrusion detection systems, NLP models using transformers, and end-to-end ML pipelines from data preprocessing to API deployment. I have published peer-reviewed research at IEEE conferences and enjoy building systems that balance research rigor with practical usability.
+I enjoy building practical ML systems that turn data into usable products. My work spans security, NLP, forecasting, and deployment, with hands-on experience in model development, feature engineering, API integration, and applied research.
 
 <p align="center">
   <a href="mailto:shakilcuetcse@gmail.com">Email</a> ·
