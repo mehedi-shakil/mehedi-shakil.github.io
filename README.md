@@ -5,7 +5,7 @@
 <h1 align="center">Mehedi Hasan Shakil</h1>
 
 <p align="center">
-  Machine Learning Engineer · Deep Learning · NLP · Security
+  Data Science · Machine Learning · NLP · Security
 </p>
 
 
@@ -23,9 +23,8 @@ I work on applied machine learning problems with a focus on security, natural la
 ---
 
 
-# Projects
-<h2 align="center">Projects</h2>
-<h2 align="center">Publications</h2>
+
+<h1 align="center">Projects</h1>
 
 <div class="proj-grid">
 
@@ -148,7 +147,7 @@ I work on applied machine learning problems with a focus on security, natural la
 
 ---
 
-# Publications
+<h1 align="center">Publications</h1>
 
 ## Empowering Android Malware Detection: A Deep Learning Ensemble with Optimal Features  
 **Conference:**  2023 26th International Conference on Computer and Information Technology (ICCIT) 
